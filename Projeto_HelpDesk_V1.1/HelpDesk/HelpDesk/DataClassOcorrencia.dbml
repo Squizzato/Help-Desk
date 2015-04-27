@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DatabaseHelpDesk" Class="DataClassOcorrenciaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\DatabaseHelpDesk.mdf;Integrated Security=True" SettingsObjectName="HelpDesk.Properties.Settings" SettingsPropertyName="DatabaseHelpDeskConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Ocorrencia" Member="tbl_Ocorrencias">
+    <Type Name="tbl_Ocorrencia">
+      <Column Name="Id_Ocr" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Sol_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Data_Ocr" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Cat_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Local_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Equipamento_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Descricao_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Observacao_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Tec_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DataSolucao_Ocr" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Solucao_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Status_Ocr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
