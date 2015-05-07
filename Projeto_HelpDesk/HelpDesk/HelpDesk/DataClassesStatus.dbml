@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DatabaseHelpDesk" Class="DataClassesStatusDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\DatabaseHelpDesk.mdf;Integrated Security=True" SettingsObjectName="HelpDesk.Properties.Settings" SettingsPropertyName="DatabaseHelpDeskConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Status" Member="tbl_Status">
+    <Type Name="tbl_Status">
+      <Column Name="Id_Status" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Desc_Status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
