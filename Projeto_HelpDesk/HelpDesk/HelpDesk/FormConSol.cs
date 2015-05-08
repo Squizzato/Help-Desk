@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HelpDesk
+namespace HelpDesk.Consultas
 {
-    public partial class FormManutencao : Form
+    public partial class FormConSol : Form
     {
-        public FormManutencao()
+        public FormConSol()
         {
             InitializeComponent();
-        }
-
-        private void btnVoltar_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }

@@ -116,3 +116,56 @@ K:\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\DatabaseHelpDesk.mdf
 K:\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\DatabaseHelpDesk_log.ldf
 K:\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\HelpDesk.exe
 K:\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\HelpDesk.pdb
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\HelpDesk.exe.config
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormCadUsuarios.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormConsulta.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManutencao.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormOcr.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormMenu.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.Cache
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\DatabaseHelpDesk.mdf
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\DatabaseHelpDesk_log.ldf
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\HelpDesk.exe
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\HelpDesk.pdb
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.3\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuCategoria.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.exe.config
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormCadUsuarios.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormConsulta.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuCategoria.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuLocais.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuStatus.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormOcr.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormMenu.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.Cache
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\DatabaseHelpDesk.mdf
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\DatabaseHelpDesk_log.ldf
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.exe
+C:\Users\bruno\Documents\ADS\4º SEMEST\Engenharia III\PROJETO HELPDESK\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.pdb
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormCadUsuarios.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormConsulta.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuCategoria.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuLocais.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormManuStatus.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormOcr.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.FormMenu.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\DatabaseHelpDesk.mdf
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\DatabaseHelpDesk_log.ldf
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.exe.config
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.exe
+C:\Users\Aluno\Desktop\Projeto_HelpDesk_V1.4\HelpDesk\HelpDesk\HelpDesk.pdb
+D:\Projeto_HelpDesk_Atual\HelpDesk\HelpDesk\HelpDesk.exe.config
+D:\Projeto_HelpDesk_Atual\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+D:\Projeto_HelpDesk_Atual\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb

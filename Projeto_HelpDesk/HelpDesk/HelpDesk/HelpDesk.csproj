@@ -78,6 +78,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataClassCategorias.dbml</DependentUpon>
     </Compile>
+    <Compile Include="DataClassesLocais.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClassesLocais.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClassesStatus.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClassesStatus.dbml</DependentUpon>
+    </Compile>
     <Compile Include="DataClassOcorrencia.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -100,11 +110,23 @@
     <Compile Include="FormConsulta.Designer.cs">
       <DependentUpon>FormConsulta.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormManutencao.cs">
+    <Compile Include="FormManuCategoria.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormManutencao.Designer.cs">
-      <DependentUpon>FormManutencao.cs</DependentUpon>
+    <Compile Include="FormManuCategoria.Designer.cs">
+      <DependentUpon>FormManuCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManuLocais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManuLocais.Designer.cs">
+      <DependentUpon>FormManuLocais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManuStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManuStatus.Designer.cs">
+      <DependentUpon>FormManuStatus.cs</DependentUpon>
     </Compile>
     <Compile Include="FormOcr.cs">
       <SubType>Form</SubType>
@@ -125,6 +147,16 @@
       <LastGenOutput>DataClassCategorias.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
+    <None Include="DataClassesLocais.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClassesLocais.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClassesStatus.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClassesStatus.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
     <None Include="DataClassOcorrencia.dbml.layout">
       <DependentUpon>DataClassOcorrencia.dbml</DependentUpon>
     </None>
@@ -134,14 +166,26 @@
     <None Include="DataClassUsuarios.dbml.layout">
       <DependentUpon>DataClassUsuarios.dbml</DependentUpon>
     </None>
+    <None Include="DataClassesLocais.dbml.layout">
+      <DependentUpon>DataClassesLocais.dbml</DependentUpon>
+    </None>
+    <None Include="DataClassesStatus.dbml.layout">
+      <DependentUpon>DataClassesStatus.dbml</DependentUpon>
+    </None>
     <EmbeddedResource Include="FormCadUsuarios.resx">
       <DependentUpon>FormCadUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormConsulta.resx">
       <DependentUpon>FormConsulta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormManutencao.resx">
-      <DependentUpon>FormManutencao.cs</DependentUpon>
+    <EmbeddedResource Include="FormManuCategoria.resx">
+      <DependentUpon>FormManuCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManuLocais.resx">
+      <DependentUpon>FormManuLocais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManuStatus.resx">
+      <DependentUpon>FormManuStatus.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormOcr.resx">
       <DependentUpon>FormOcr.cs</DependentUpon>

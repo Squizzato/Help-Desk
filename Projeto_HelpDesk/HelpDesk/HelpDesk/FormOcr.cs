@@ -119,7 +119,8 @@ namespace HelpDesk
             cmbxSituacao.Text = statusOco;
 
             Conectar();
-
+            
+            // Combo Categoria
             try
             {
                 string pesquisa = "SELECT * FROM tbl_Categoria";
@@ -138,6 +139,51 @@ namespace HelpDesk
                 MessageBox.Show(ex.Message);
             }
 
+            ObjConectar.Close();
+            ObjConectar.Open();
+
+            // Combo Local
+            try
+            {
+                string pesquisaLocal = "SELECT * FROM tbl_Local";
+                SqlCommand objPesquisaLocal = new SqlCommand(pesquisaLocal, ObjConectar);
+                SqlDataReader registrosLocal = objPesquisaLocal.ExecuteReader();
+
+                cmbxLocal.Items.Clear();
+
+                while(registrosLocal.Read())
+                {
+                    cmbxLocal.Items.Add(registrosLocal[1]);
+                }
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Erro:" + erro.Message);
+            }
+
+            ObjConectar.Close();
+            ObjConectar.Open();
+
+            // Combo Status
+            try
+            {
+                string pesquisaStatus = "SELECT * FROM tbl_Status";
+                SqlCommand objPesquisasStatus = new SqlCommand(pesquisaStatus, ObjConectar);
+                SqlDataReader registrosStatus = objPesquisasStatus.ExecuteReader();
+
+                cmbxSituacao.Items.Clear();
+
+                while (registrosStatus.Read())
+                {
+                    cmbxSituacao.Items.Add(registrosStatus[1]);
+                }
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Erro:" + erro.Message);
+            }
+
+            // Fechando a Conexão
             ObjConectar.Close();
 
             if (cmbxSituacao.Text.Equals("Em espera"))
@@ -158,6 +204,11 @@ namespace HelpDesk
 
             ObjConectar = new SqlConnection(Conexao);
             ObjConectar.Open();
+        }
+
+        private void cmbxCat_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
